@@ -3,12 +3,12 @@
 
 .container{
     max-width: 1200px;
-    height:100vh;
+    height:5gti0vh;
     
     margin :0 auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
 }
 
@@ -17,6 +17,7 @@ button{
     padding:0.8rem 1.5rem;
     border:1px solid black;
     outline:none;
+    margin:1rem 0;
 }
 p{
     width:10rem;
