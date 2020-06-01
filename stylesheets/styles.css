@@ -1,0 +1,33 @@
+.container {
+  max-width: 1200px;
+  height: 100vh;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+button {
+  background: transparent;
+  padding: 0.8rem 1.5rem;
+  border: 1px solid black;
+  outline: none;
+}
+
+p {
+  width: 10rem;
+  color: black;
+  font-size: 2rem;
+  text-align: center;
+}
+/*# sourceMappingURL=styles.css.map */
