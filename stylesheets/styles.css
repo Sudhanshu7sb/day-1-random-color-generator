@@ -9,9 +9,9 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -22,7 +22,7 @@ button {
   padding: 0.8rem 1.5rem;
   border: 1px solid black;
   outline: none;
-  margin: 1rem 0;
+  margin: 15rem 0 1rem 0;
 }
 
 p {
